@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "convert": "npm install & echo \" Install extension Live Sass Compiler! https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass \""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
+}
